@@ -1,0 +1,93 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "MidGram",
+    "tagline": "Connecting pharmacies and medical representatives: products, orders, chat and visit appointments.",
+    "accent": "#2196F3",
+    "accent2": "#E0A84A",
+    "logo": "D:/shaker-github/_work/brand/midgram.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · Pharma B2B",
+      "subtitle": "Pharmacies and medical reps in one realtime app: product posts, orders, chat and appointments.",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/midgram/06_rep_add_post.png",
+        "D:/shaker-github/_work/shots_padded/midgram/01_role_selection.png",
+        "D:/shaker-github/_work/shots_padded/midgram/05_create_order.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "GetX",
+        "Firebase",
+        "Firestore realtime",
+        "FCM",
+        "Arabic RTL"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-onboarding.png",
+      "title": "Role-based entry, sign-up and remote config",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/midgram/01_role_selection.png",
+        "D:/shaker-github/_work/shots_padded/midgram/03_signup.png",
+        "D:/shaker-github/_work/shots_padded/midgram/04_privacy.png",
+        "D:/shaker-github/_work/shots_padded/midgram/10_force_update.png"
+      ],
+      "device": "mixed",
+      "cols": 4,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "gallery",
+      "file": "screens-modules.png",
+      "title": "Pharmacy & representative modules",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/midgram/08_pharmacy_home.png",
+        "D:/shaker-github/_work/shots_padded/midgram/11_reps_list.png",
+        "D:/shaker-github/_work/shots_padded/midgram/05_create_order.png",
+        "D:/shaker-github/_work/shots_padded/midgram/07_chat.png",
+        "D:/shaker-github/_work/shots_padded/midgram/06_rep_add_post.png"
+      ],
+      "devices": [
+        "iphone",
+        "android",
+        "iphone",
+        "android",
+        "iphone"
+      ],
+      "cols": 5,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "feature",
+      "file": "feature-two-sided.png",
+      "kicker": "Signature feature",
+      "title": "One app, two sides of the pharma market",
+      "points": [
+        "Reps publish products; pharmacies post orders",
+        "1-to-1 realtime chat with images",
+        "Visit appointments booked inside the chat",
+        "Role-aware routing, bindings and navbars"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/midgram/06_rep_add_post.png",
+        "D:/shaker-github/_work/shots_padded/midgram/05_create_order.png"
+      ],
+      "devices": [
+        "android",
+        "iphone"
+      ],
+      "css": ".grain:after{display:none}"
+    }
+  ]
+}

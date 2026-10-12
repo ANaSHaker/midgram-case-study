@@ -1,0 +1,6 @@
+{
+  "name": "midgram-case-study",
+  "description": "Case study: MidGram, an Arabic-first Flutter app connecting pharmacies and medical representatives in Iraq. Product posts, orders, realtime chat and in-chat visit appointments, built on GetX modules and Firebase (Auth, Firestore, Storage, FCM) with remote force-update",
+  "topics": ["flutter", "case-study", "getx", "firebase", "cloud-firestore", "realtime-chat", "pharmacy", "b2b", "arabic", "rtl"],
+  "homepage": null
+}
